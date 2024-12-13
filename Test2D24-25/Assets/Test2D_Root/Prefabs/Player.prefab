@@ -221,6 +221,11 @@ MonoBehaviour:
   speed: 7
   jumpForce: 5
   isGrounded: 0
+  groundCheck: {fileID: 4728680479247426357}
+  groundCheckRadius: 0.1
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
 --- !u!114 &7782500168564749456
 MonoBehaviour:
   m_ObjectHideFlags: 0
